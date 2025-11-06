@@ -22,16 +22,14 @@ Source code is **not** included; this repo is only for issues.
 
 ## Submitting an Issue
 1. Open **Issues** → **New Issue**  
-2. Pick a label (`bug`, `feature`, `feedback`, etc.)  
+2. Pick a label (`bug`, `enhancement`, `question`, etc.)  
 3. Describe the issue clearly
 
 ---
 
 ## Labels
 - **bug** — Broken or incorrect behavior  
-- **feature** — New functionality  
-- **feedback** — General suggestions  
-- **performance** — Slow or resource-heavy behavior  
+- **enhancement** — New functionality    
 - **question** — Clarifications
 
 ---
